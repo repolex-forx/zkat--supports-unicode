@@ -1,0 +1,11 @@
+{
+  "org": "zkat",
+  "repo": "supports-unicode",
+  "versions": [
+    {
+      "commit": "f886c823e6f4b5760171fbafcbe42ede41e26d6c",
+      "tag": "v3.0.0",
+      "parsed_at": "2026-11-21T23:32:40.084257+00:00"
+    }
+  ]
+}
